@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_forfaits"
+        android:icon="@drawable/baseline_add_card_24"
+        android:title="Forfaits" />
+    <item
+        android:id="@+id/nav_historique"
+        android:icon="@drawable/baseline_history_24"
+        android:title="Historique" />
+
+
+</menu>
